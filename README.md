@@ -16,10 +16,22 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npm/npm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p><br/>
 
 ### Github State
