@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WDY666?theme=cobalt)](https://github.com/WDY666/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WDY666?theme=synthwave)](https://github.com/WDY666/github-readme-stats)
 
 
 <!--
