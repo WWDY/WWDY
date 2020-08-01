@@ -1,9 +1,11 @@
 ### Hi there！I'm WDY👋
-### 💬 Ask me about :
-一位菜鸡的大三学生
-### 📫 How to reach me:
+<br/>
+### Ask me about💬  :
+一位菜鸡的大三学生<br/>
+### How to reach me📫 :
 |Email|QQ|
-|6618@tom.com|770000180|
+|---|---|
+|6618@tom.com|770000180|<br/>
 ### Languages and Tools:
 <p>  
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -16,8 +18,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+</p><br/>
 ### Github State
+<br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WDY666&theme=dracula)](https://github.com/WDY666/github-readme-stats)
 
 
