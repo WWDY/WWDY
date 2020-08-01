@@ -1,12 +1,14 @@
 ### Hi there！I'm WDY👋
-<br/>
-### Ask me about💬  :
-一位菜鸡的大三学生<br/>
-### How to reach me📫 :
-|Email|QQ|
-|---|---|
-|6618@tom.com|770000180|<br/>
-### Languages and Tools:
+
+### Ask me about💬  
+一位菜鸡的大三学生
+
+### How to reach me📫 
+| Email | QQ |
+| ---- | ---- |
+| 6618@tom.com | 770000180 |
+
+### Languages and Tools
 <p>  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -20,7 +22,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p><br/>
 ### Github State
-<br/>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WDY666&theme=dracula)](https://github.com/WDY666/github-readme-stats)
 
 
