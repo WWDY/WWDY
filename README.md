@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WDY666)](https://github.com/WDY666/github-readme-stats)
+
 
 <!--
 **WDY666/WDY666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
