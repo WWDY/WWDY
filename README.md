@@ -36,7 +36,7 @@
 
 ### Github State
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WDY666&theme=dracula)](https://github.com/WDY666/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=呆橘&theme=dracula)](https://github.com/WWDY/github-readme-stats)
 
 
 
