@@ -1,7 +1,7 @@
-### Hi there！I'm WDY👋
+### Hi there！I'm WWDY （呆橘🍊） 👋
 
 ### Ask me about💬  
-一位菜鸡的大三学生
+一位菜鸡的大四学生
 
 ### How to reach me📫 
 | Email | QQ |
